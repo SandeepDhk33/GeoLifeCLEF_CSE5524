@@ -12,6 +12,9 @@ _**Models:**_
 _**Dataset**_
 Available in the Ohio Supercomputer Directory: _"/fs/scratch/PAS2985/group_23"_
 
+**Saved Model**
+File size for saved models is greater than 25 MB, so it is also made available in the Ohio Supercomputer Directory: _"/fs/scratch/PAS2985/group_23"_
+
 **Notebook: Baseline_Model_Kaggle (Sentinel)**
 
 ![image](https://github.com/user-attachments/assets/f83020b6-e4d9-4707-920f-460307d48b71)
